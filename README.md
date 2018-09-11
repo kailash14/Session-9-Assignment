@@ -1,7 +1,6 @@
 # Session-9-Assignment
 Read the dataset from the below link
-https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/06_Stats/US
-_Baby_Names/US_Baby_Names_right.csv
+https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/06_Stats/US_Baby_Names/US_Baby_Names_right.csv
 
 Questions:
 1. Delete unnamed columns
